@@ -1,0 +1,13 @@
+blast isoforms against yeast gene and compare to canonical transcript
+HUMAN GENES ARE USING A HIGHLY HUMAN PROCESS OF ALTERNATIVE SPLICING TO EVOLVE BACK TO SIMILAR BASIC FUNCTION
+^^^^ NEED A BETTER WAY TO STATE THIS!!!!
+
+
+Step 1
+> choose random samples
+
+Step 2
+> Query in Uniprot
+
+Step 3
+> conclusions based on orthology

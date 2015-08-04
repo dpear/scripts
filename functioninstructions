@@ -1,0 +1,22 @@
+human all
+human comp
+human non
+
+mgi comp
+mgi noncomp
+mgi all
+
+1. go to Go website > downloads> annotation > human (homo sapiens)
+
+
+1. go slim
+2. upload a list containing gene products \/ \/
+3. all-human-uniprots.txt
+4. Or use a preexisting go slim set: Generic go slim
+5. SUBMIT
+
+mouse:
+1. go slim
+2. upload a list containing gene products
+3. all-mgi.txt (all mgi id's)
+4. or use a preexisting go slim set: Generic go slim

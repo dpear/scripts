@@ -1,0 +1,3 @@
+yes	name9	MGI1	hom_sym1
+yes	name1	MGI2	hom_sym2
+yes	name5	MGI3	hom_sym3

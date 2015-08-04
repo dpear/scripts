@@ -1,0 +1,192 @@
+PR:O88796-1	ribonuclease P protein subunit p30 isoform 1 (mouse)	organism-sequence
+PR:O55201-2	transcription elongation factor SPT5 isoform 2 (mouse)	organism-sequence
+PR:O55201-1	transcription elongation factor SPT5 isoform 1 (mouse)	organism-sequence
+PR:O54956-1	DNA polymerase epsilon subunit 2 isoform 1 (mouse)	organism-sequence
+PR:O35857-1	mitochondrial import inner membrane translocase subunit TIM44 isoform 1 (mouse)	organism-sequence
+PR:O35648-1	centrin-3 isoform 1 (mouse)	organism-sequence
+PR:O35218-1	cleavage and polyadenylation specificity factor subunit 2 isoform 1 (mouse)	organism-sequence
+PR:A2BE28-2	ribosomal biogenesis protein LAS1L isoform 2 (mouse)	organism-sequence
+PR:A2BE28-1	ribosomal biogenesis protein LAS1L isoform 1 (mouse)	organism-sequence
+PR:A2AI05-3	NADPH-dependent diflavin oxidoreductase 1 isoform 3 (mouse)	organism-sequence
+PR:A2AI05-2	NADPH-dependent diflavin oxidoreductase 1 isoform 2 (mouse)	organism-sequence
+PR:A2AI05-1	NADPH-dependent diflavin oxidoreductase 1 isoform 1 (mouse)	organism-sequence
+PR:A2A6Q5-3	cell division cycle protein 27 homolog isoform 3 (mouse)	organism-sequence
+PR:A2A6Q5-2	cell division cycle protein 27 homolog isoform 2 (mouse)	organism-sequence
+PR:A2A6Q5-1	cell division cycle protein 27 homolog isoform 1 (mouse)	organism-sequence
+PR:P60122-1	RuvB-like 1 isoform 1 (mouse)	organism-sequence
+PR:P56213-1	FAD-linked sulfhydryl oxidase ALR isoform 1 (mouse)	organism-sequence
+PR:P53798-1	squalene synthase isoform 1 (mouse)	organism-sequence
+PR:P52432-1	DNA-directed RNA polymerases I and III subunit RPAC1 isoform 1 (mouse)	organism-sequence
+PR:P50247-1	adenosylhomocysteinase isoform 1 (mouse)	organism-sequence
+PR:P47758-1	signal recognition particle receptor subunit beta isoform 1 (mouse)	organism-sequence
+PR:P42932-1	T-complex protein 1 subunit theta isoform 1 (mouse)	organism-sequence
+PR:P35601-2	replication factor C subunit 1 isoform 2 (mouse)	organism-sequence
+PR:P35601-1	replication factor C subunit 1 isoform 1 (mouse)	organism-sequence
+PR:P08775-1	DNA-directed RNA polymerase II subunit RPB1 isoform 1 (mouse)	organism-sequence
+PR:Q03147-1	cyclin-dependent kinase 7 isoform 1 (mouse)	organism-sequence
+PR:P99026-1	proteasome subunit beta type-4 isoform 1 (mouse)	organism-sequence
+PR:P97311-1	DNA replication licensing factor MCM6 isoform 1 (mouse)	organism-sequence
+PR:P97310-1	DNA replication licensing factor MCM2 isoform 1 (mouse)	organism-sequence
+PR:P83870-1	PHD finger-like domain-containing protein 5A isoform 1 (mouse)	organism-sequence
+PR:P80318-1	T-complex protein 1 subunit gamma isoform 1 (mouse)	organism-sequence
+PR:P80316-1	T-complex protein 1 subunit epsilon isoform 1 (mouse)	organism-sequence
+PR:P80315-1	T-complex protein 1 subunit delta isoform 1 (mouse)	organism-sequence
+PR:P70697-1	uroporphyrinogen decarboxylase isoform 1 (mouse)	organism-sequence
+PR:P62915-1	transcription initiation factor IIB isoform 1 (mouse)	organism-sequence
+PR:P62908-1	40S ribosomal protein S3 isoform 1 (mouse)	organism-sequence
+PR:P61804-1	dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunit DAD1 isoform 1 (mouse)	organism-sequence
+PR:P61222-1	ATP-binding cassette sub-family E member 1 isoform 1 (mouse)	organism-sequence
+PR:Q6KCD5-3	nipped-B-like protein isoform 3 (mouse)	organism-sequence
+PR:Q6KCD5-2	nipped-B-like protein isoform 2 (mouse)	organism-sequence
+PR:Q6KCD5-1	nipped-B-like protein isoform 1 (mouse)	organism-sequence
+PR:Q62376-2	U1 small nuclear ribonucleoprotein 70 kDa isoform 2 (mouse)	organism-sequence
+PR:Q62376-1	U1 small nuclear ribonucleoprotein 70 kDa isoform 1 (mouse)	organism-sequence
+PR:Q61881-1	DNA replication licensing factor MCM7 isoform 1 (mouse)	organism-sequence
+PR:Q61578-1	NADPH:adrenodoxin oxidoreductase, mitochondrial isoform 1 (mouse)	organism-sequence
+PR:Q61239-1	protein farnesyltransferase/geranylgeranyltransferase type-1 subunit alpha isoform 1 (mouse)	organism-sequence
+PR:Q569Z5-2	ATP-dependent RNA helicase DDX46 isoform 2 (mouse)	organism-sequence
+PR:Q569Z5-1	ATP-dependent RNA helicase DDX46 isoform 1 (mouse)	organism-sequence
+PR:Q3TUH1-2	phosphatidate cytidylyltransferase, mitochondrial isoform 2 (mouse)	organism-sequence
+PR:Q3TUH1-1	phosphatidate cytidylyltransferase, mitochondrial isoform 1 (mouse)	organism-sequence
+PR:Q3TPX4-1	exocyst complex component 5 isoform 1 (mouse)	organism-sequence
+PR:Q3TLI0-1	trafficking protein particle complex subunit 10 isoform 1 (mouse)	organism-sequence
+PR:Q80XL7-3	metallophosphoesterase 1 isoform 3 (mouse)	organism-sequence
+PR:Q80XL7-2	metallophosphoesterase 1 isoform 2 (mouse)	organism-sequence
+PR:Q80XL7-1	metallophosphoesterase 1 isoform 1 (mouse)	organism-sequence
+PR:Q80XC2-1	tRNA (adenine(58)-N(1))-methyltransferase catalytic subunit TRMT61A isoform 1 (mouse)	organism-sequence
+PR:Q6ZPV2-2	DNA helicase INO80 isoform 2 (mouse)	organism-sequence
+PR:Q6ZPV2-1	DNA helicase INO80 isoform 1 (mouse)	organism-sequence
+PR:Q6ZPL9-1	ATP-dependent RNA helicase DDX55 isoform 1 (mouse)	organism-sequence
+PR:Q6QI06-2	rapamycin-insensitive companion of mTOR isoform 2 (mouse)	organism-sequence
+PR:Q6QI06-1	rapamycin-insensitive companion of mTOR isoform 1 (mouse)	organism-sequence
+PR:Q6PGF7-1	exocyst complex component 8 isoform 1 (mouse)	organism-sequence
+PR:Q6PD26-1	GPI transamidase component PIG-S isoform 1 (mouse)	organism-sequence
+PR:Q6PAC3-1	DDB1- and CUL4-associated factor 13 isoform 1 (mouse)	organism-sequence
+PR:Q6P7W0-2	sentrin-specific protease 6 isoform 2 (mouse)	organism-sequence
+PR:Q6P7W0-1	sentrin-specific protease 6 isoform 1 (mouse)	organism-sequence
+PR:Q6KCD5-4	nipped-B-like protein isoform 4 (mouse)	organism-sequence
+PR:Q8BRF7-1	sec1 family domain-containing protein 1 isoform 1 (mouse)	organism-sequence
+PR:Q8BMZ5-2	tRNA-splicing endonuclease subunit Sen34 isoform 2 (mouse)	organism-sequence
+PR:Q8BMZ5-1	tRNA-splicing endonuclease subunit Sen34 isoform 1 (mouse)	organism-sequence
+PR:Q8BMC4-1	nucleolar protein 9 isoform 1 (mouse)	organism-sequence
+PR:Q8BJ05-4	zinc finger CCCH domain-containing protein 14 isoform 4 (mouse)	organism-sequence
+PR:Q8BJ05-3	zinc finger CCCH domain-containing protein 14 isoform 3 (mouse)	organism-sequence
+PR:Q8BJ05-2	zinc finger CCCH domain-containing protein 14 isoform 2 (mouse)	organism-sequence
+PR:Q8BJ05-1	zinc finger CCCH domain-containing protein 14 isoform 1 (mouse)	organism-sequence
+PR:Q8BHY2-1	nucleolar complex protein 4 homolog isoform 1 (mouse)	organism-sequence
+PR:Q8BGZ4-2	cell division cycle protein 23 homolog isoform 2 (mouse)	organism-sequence
+PR:Q8BGZ4-1	cell division cycle protein 23 homolog isoform 1 (mouse)	organism-sequence
+PR:Q8BGS0-2	protein MAK16 homolog isoform 2 (mouse)	organism-sequence
+PR:Q8BGS0-1	protein MAK16 homolog isoform 1 (mouse)	organism-sequence
+PR:Q8BFQ4-1	WD repeat-containing protein 82 isoform 1 (mouse)	organism-sequence
+PR:Q810D6-1	glutamate-rich WD repeat-containing protein 1 isoform 1 (mouse)	organism-sequence
+PR:Q8C5N3-2	pre-mRNA-splicing factor CWC22 homolog isoform 2 (mouse)	organism-sequence
+PR:Q8C5N3-1	pre-mRNA-splicing factor CWC22 homolog isoform 1 (mouse)	organism-sequence
+PR:Q8C3B8-2	protein RFT1 homolog isoform 2 (mouse)	organism-sequence
+PR:Q8C3B8-1	protein RFT1 homolog isoform 1 (mouse)	organism-sequence
+PR:Q8C2R7-1	GPI mannosyltransferase 1 isoform 1 (mouse)	organism-sequence
+PR:Q8C2A2-2	tRNA-splicing endonuclease subunit Sen54 isoform 2 (mouse)	organism-sequence
+PR:Q8C2A2-1	tRNA-splicing endonuclease subunit Sen54 isoform 1 (mouse)	organism-sequence
+PR:Q8C0C7-1	phenylalanine--tRNA ligase alpha subunit isoform 1 (mouse)	organism-sequence
+PR:Q8BWY3-1	eukaryotic peptide chain release factor subunit 1 isoform 1 (mouse)	organism-sequence
+PR:Q8BU30-1	isoleucine--tRNA ligase, cytoplasmic isoform 1 (mouse)	organism-sequence
+PR:Q8BRF7-3	sec1 family domain-containing protein 1 isoform 3 (mouse)	organism-sequence
+PR:Q8BRF7-2	sec1 family domain-containing protein 1 isoform 2 (mouse)	organism-sequence
+PR:Q8K4Q0-3	regulatory-associated protein of mTOR isoform 3 (mouse)	organism-sequence
+PR:Q8K4Q0-2	regulatory-associated protein of mTOR isoform 2 (mouse)	organism-sequence
+PR:Q8K4Q0-1	regulatory-associated protein of mTOR isoform 1 (mouse)	organism-sequence
+PR:Q8K301-1	ATP-dependent RNA helicase DDX52 isoform 1 (mouse)	organism-sequence
+PR:Q8K2Z2-2	pre-mRNA-processing factor 39 isoform 2 (mouse)	organism-sequence
+PR:Q8K2Z2-1	pre-mRNA-processing factor 39 isoform 1 (mouse)	organism-sequence
+PR:Q8CH62-1	oral cancer-overexpressed protein 1 homolog isoform 1 (mouse)	organism-sequence
+PR:Q8CE96-4	tRNA (adenine(58)-N(1))-methyltransferase non-catalytic subunit TRM6 isoform 4 (mouse)	organism-sequence
+PR:Q8CE96-3	tRNA (adenine(58)-N(1))-methyltransferase non-catalytic subunit TRM6 isoform 3 (mouse)	organism-sequence
+PR:Q8CE96-1	tRNA (adenine(58)-N(1))-methyltransferase non-catalytic subunit TRM6 isoform 1 (mouse)	organism-sequence
+PR:Q8CD92-2	tetratricopeptide repeat protein 27 isoform 2 (mouse)	organism-sequence
+PR:Q8CD92-1	tetratricopeptide repeat protein 27 isoform 1 (mouse)	organism-sequence
+PR:Q8CCF0-5	U4/U6 small nuclear ribonucleoprotein Prp31 isoform 5 (mouse)	organism-sequence
+PR:Q8CCF0-4	U4/U6 small nuclear ribonucleoprotein Prp31 isoform 4 (mouse)	organism-sequence
+PR:Q8CCF0-3	U4/U6 small nuclear ribonucleoprotein Prp31 isoform 3 (mouse)	organism-sequence
+PR:Q8CCF0-2	U4/U6 small nuclear ribonucleoprotein Prp31 isoform 2 (mouse)	organism-sequence
+PR:Q8CCF0-1	U4/U6 small nuclear ribonucleoprotein Prp31 isoform 1 (mouse)	organism-sequence
+PR:Q91VE6-2	MKI67 FHA domain-interacting nucleolar phosphoprotein isoform 2 (mouse)	organism-sequence
+PR:Q91VE6-1	MKI67 FHA domain-interacting nucleolar phosphoprotein isoform 1 (mouse)	organism-sequence
+PR:Q8VHZ7-1	U3 small nucleolar ribonucleoprotein protein IMP4 isoform 1 (mouse)	organism-sequence
+PR:Q8VHE0-1	translocation protein SEC63 homolog isoform 1 (mouse)	organism-sequence
+PR:Q8VEJ1-1	GPN-loop GTPase 2 isoform 1 (mouse)	organism-sequence
+PR:Q8VD76-1	general transcription factor IIH subunit 3 isoform 1 (mouse)	organism-sequence
+PR:Q8R3C6-2	RNA-binding protein 19 isoform 2 (mouse)	organism-sequence
+PR:Q8R3C6-1	RNA-binding protein 19 isoform 1 (mouse)	organism-sequence
+PR:Q8R349-1	cell division cycle protein 16 homolog isoform 1 (mouse)	organism-sequence
+PR:Q8R1U1-1	conserved oligomeric Golgi complex subunit 4 isoform 1 (mouse)	organism-sequence
+PR:Q8R0A0-1	general transcription factor IIF subunit 2 isoform 1 (mouse)	organism-sequence
+PR:Q8K4Q0-5	regulatory-associated protein of mTOR isoform 5 (mouse)	organism-sequence
+PR:Q8K4Q0-4	regulatory-associated protein of mTOR isoform 4 (mouse)	organism-sequence
+PR:Q99L28-1	ribosome biogenesis protein RLP24 isoform 1 (mouse)	organism-sequence
+PR:Q99KP6-3	pre-mRNA-processing factor 19 isoform 3 (mouse)	organism-sequence
+PR:Q99KP6-2	pre-mRNA-processing factor 19 isoform 2 (mouse)	organism-sequence
+PR:Q99KP6-1	pre-mRNA-processing factor 19 isoform 1 (mouse)	organism-sequence
+PR:Q924M7-1	mannose-6-phosphate isomerase isoform 1 (mouse)	organism-sequence
+PR:Q922U1-1	U4/U6 small nuclear ribonucleoprotein Prp3 isoform 1 (mouse)	organism-sequence
+PR:Q922B2-1	aspartate--tRNA ligase, cytoplasmic isoform 1 (mouse)	organism-sequence
+PR:Q921Y2-1	U3 small nucleolar ribonucleoprotein protein IMP3 isoform 1 (mouse)	organism-sequence
+PR:Q921M3-2	splicing factor 3B subunit 3 isoform 2 (mouse)	organism-sequence
+PR:Q921M3-1	splicing factor 3B subunit 3 isoform 1 (mouse)	organism-sequence
+PR:Q921D4-1	mediator of RNA polymerase II transcription subunit 6 isoform 1 (mouse)	organism-sequence
+PR:Q920E5-1	farnesyl pyrophosphate synthase isoform 1 (mouse)	organism-sequence
+PR:Q91YR7-2	pre-mRNA-processing factor 6 isoform 2 (mouse)	organism-sequence
+PR:Q91YR7-1	pre-mRNA-processing factor 6 isoform 1 (mouse)	organism-sequence
+PR:Q9CTH6-1	rRNA-processing protein FCF1 homolog isoform 1 (mouse)	organism-sequence
+PR:Q9CRA8-1	exosome complex component RRP46 isoform 1 (mouse)	organism-sequence
+PR:Q9CR47-1	ribosome biogenesis protein NSA2 homolog isoform 1 (mouse)	organism-sequence
+PR:Q9CR21-1	acyl carrier protein, mitochondrial isoform 1 (mouse)	organism-sequence
+PR:Q9CQA1-1	trafficking protein particle complex subunit 5 isoform 1 (mouse)	organism-sequence
+PR:Q9CQ56-2	vesicle transport protein USE1 isoform 2 (mouse)	organism-sequence
+PR:Q9CQ56-1	vesicle transport protein USE1 isoform 1 (mouse)	organism-sequence
+PR:Q9CPX9-1	anaphase-promoting complex subunit 11 isoform 1 (mouse)	organism-sequence
+PR:Q9CPW7-1	zinc finger matrin-type protein 2 isoform 1 (mouse)	organism-sequence
+PR:Q99LZ3-1	DNA replication complex GINS protein SLD5 isoform 1 (mouse)	organism-sequence
+PR:Q99LI9-1	polyribonucleotide 5'-hydroxyl-kinase Clp1 isoform 1 (mouse)	organism-sequence
+PR:Q99LI7-1	cleavage stimulation factor subunit 3 isoform 1 (mouse)	organism-sequence
+PR:Q9D600-1	DNA replication complex GINS protein PSF2 isoform 1 (mouse)	organism-sequence
+PR:Q9D554-1	splicing factor 3A subunit 3 isoform 1 (mouse)	organism-sequence
+PR:Q9D483-2	DNA-directed RNA polymerase III subunit RPC3 isoform 2 (mouse)	organism-sequence
+PR:Q9D483-1	DNA-directed RNA polymerase III subunit RPC3 isoform 1 (mouse)	organism-sequence
+PR:Q9D2V5-1	protein AAR2 homolog isoform 1 (mouse)	organism-sequence
+PR:Q9D0L8-3	mRNA cap guanine-N7 methyltransferase isoform 3 (mouse)	organism-sequence
+PR:Q9D0L8-2	mRNA cap guanine-N7 methyltransferase isoform 2 (mouse)	organism-sequence
+PR:Q9D0L8-1	mRNA cap guanine-N7 methyltransferase isoform 1 (mouse)	organism-sequence
+PR:Q9CZJ1-1	U3 small nucleolar RNA-associated protein 11 isoform 1 (mouse)	organism-sequence
+PR:Q9CZB6-1	mediator of RNA polymerase II transcription subunit 7 isoform 1 (mouse)	organism-sequence
+PR:Q9CZ15-1	DNA replication complex GINS protein PSF1 isoform 1 (mouse)	organism-sequence
+PR:Q9CY94-1	DNA replication complex GINS protein PSF3 isoform 1 (mouse)	organism-sequence
+PR:Q9CXU0-1	mediator of RNA polymerase II transcription subunit 10 isoform 1 (mouse)	organism-sequence
+PR:Q9JIF7-1	coatomer subunit beta isoform 1 (mouse)	organism-sequence
+PR:Q9JI13-2	something about silencing protein 10 isoform 2 (mouse)	organism-sequence
+PR:Q9JI13-1	something about silencing protein 10 isoform 1 (mouse)	organism-sequence
+PR:Q9JHG1-1	phosphatidylinositol N-acetylglucosaminyltransferase subunit P isoform 1 (mouse)	organism-sequence
+PR:Q9ES56-1	trafficking protein particle complex subunit 4 isoform 1 (mouse)	organism-sequence
+PR:Q9ERK4-1	exportin-2 isoform 1 (mouse)	organism-sequence
+PR:Q9DBR1-2	5'-3' exoribonuclease 2 isoform 2 (mouse)	organism-sequence
+PR:Q9DBR1-1	5'-3' exoribonuclease 2 isoform 1 (mouse)	organism-sequence
+PR:Q9DAW6-1	U4/U6 small nuclear ribonucleoprotein Prp4 isoform 1 (mouse)	organism-sequence
+PR:Q9D880-1	mitochondrial import inner membrane translocase subunit TIM50 isoform 1 (mouse)	organism-sequence
+PR:Q9WUV0-1	origin recognition complex subunit 5 isoform 1 (mouse)	organism-sequence
+PR:Q9WUA2-1	phenylalanine--tRNA ligase beta subunit isoform 1 (mouse)	organism-sequence
+PR:Q9WTX5-1	S-phase kinase-associated protein 1 isoform 1 (mouse)	organism-sequence
+PR:Q9WTM5-1	RuvB-like 2 isoform 1 (mouse)	organism-sequence
+PR:Q9R1T2-2	SUMO-activating enzyme subunit 1 isoform 2 (mouse)	organism-sequence
+PR:Q9R1T2-1	SUMO-activating enzyme subunit 1 isoform 1 (mouse)	organism-sequence
+PR:Q9R1S3-4	GPI ethanolamine phosphate transferase 1 isoform 4 (mouse)	organism-sequence
+PR:Q9R1S3-3	GPI ethanolamine phosphate transferase 1 isoform 3 (mouse)	organism-sequence
+PR:Q9R1S3-2	GPI ethanolamine phosphate transferase 1 isoform 2 (mouse)	organism-sequence
+PR:Q9R1S3-1	GPI ethanolamine phosphate transferase 1 isoform 1 (mouse)	organism-sequence
+PR:Q9R060-1	cytosolic Fe-S cluster assembly factor NUBP1 isoform 1 (mouse)	organism-sequence
+PR:Q9QZD9-1	eukaryotic translation initiation factor 3 subunit I isoform 1 (mouse)	organism-sequence
+PR:Q9JKX4-3	protein AATF isoform 3 (mouse)	organism-sequence
+PR:Q9JKX4-2	protein AATF isoform 2 (mouse)	organism-sequence
+PR:Q9JKX4-1	protein AATF isoform 1 (mouse)	organism-sequence
+PR:Q9JJT0-1	RNA 3'-terminal phosphate cyclase-like protein isoform 1 (mouse)	organism-sequence
+PR:Q9Z1X9-1	cell division control protein 45 homolog isoform 1 (mouse)	organism-sequence
+PR:Q9Z0H0-2	cell division cycle 7-related protein kinase isoform 2 (mouse)	organism-sequence
+PR:Q9Z0H0-1	cell division cycle 7-related protein kinase isoform 1 (mouse)	organism-sequence
